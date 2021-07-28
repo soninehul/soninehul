@@ -1,4 +1,4 @@
-Hi, I’m Nehul, a third year Economics undergraduate at IIT Kharagpur.
+Hi, I’m Nehul, a fourth year Economics undergraduate at IIT Kharagpur.
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me : email: soninehul@gmail.com.
 
